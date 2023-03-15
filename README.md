@@ -1,9 +1,9 @@
   <h1 align="center">Hi 👋, I'm Haneen Alzarqa</h1>
   <h3 align="center">A web developer from Gaza</h3>
   
-
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneen-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="haneen-mohammed" /> </p>
- <img width="40%" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" align="right" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=haneen-mohammed&label=Profile%20views&color=0e75b6&style=flat" alt="haneen-mohammed" /> </p>
+<img width="40%" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" align="right" />
+ 
   - 🌱 I’m currently learning **ASP.NET**
   
   - 💬 Ask me about **Web design**
